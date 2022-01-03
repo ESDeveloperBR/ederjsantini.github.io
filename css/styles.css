@@ -83,10 +83,6 @@
   font-size: 30px;
 }
 
-
-
-
-
 #whatsapp-container {
   display: flex;
   justify-content: center;
@@ -109,14 +105,6 @@
   margin-right: 5px;
   max-width: 20px;
 }
-
-
-
-
-
-
-
-
 
 #email-container {
   display: flex;
