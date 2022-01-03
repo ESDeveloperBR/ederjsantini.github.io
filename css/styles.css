@@ -83,6 +83,41 @@
   font-size: 30px;
 }
 
+
+
+
+
+#whatsapp-container {
+  display: flex;
+  justify-content: center;
+}
+
+#whatsapp-container ion-icon,
+#whatsapp-container a {
+  flex: 1 1 0;
+}
+
+#whatsapp-container a {
+  color: var(--main-text-color);
+  text-decoration: none;
+  max-width: 225px;
+}
+
+#whatsapp-container ion-icon {
+  color: var(--main-color);
+  font-size: 20px;
+  margin-right: 5px;
+  max-width: 20px;
+}
+
+
+
+
+
+
+
+
+
 #email-container {
   display: flex;
   justify-content: center;
